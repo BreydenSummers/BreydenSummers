@@ -1,4 +1,5 @@
-## Hi there 👋
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BreydenSummers)](https://git.io/streak-stats)
 
 <!--
 **BreydenSummers/BreydenSummers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
